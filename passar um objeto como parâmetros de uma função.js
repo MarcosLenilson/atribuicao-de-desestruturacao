@@ -1,3 +1,5 @@
+//Usando a atribuição de desestruturação para passar um objeto como parâmetros de uma função
+
 const stats = {
     max: 56.78,
     standard_deviation: 4.34,
